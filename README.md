@@ -1,4 +1,4 @@
-[amzone-web-page]( https://chauhanjitendra.github.io/amzone-web-page/)
+[50-off-website]( https://chauhanjitendra.github.io/50-off-website/)
 
 # 🛒 Amazon Web Page Clone
 
